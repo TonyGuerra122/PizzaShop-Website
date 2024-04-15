@@ -91,7 +91,7 @@ header {
       rgba(29, 29, 29, 0.8),
       rgba(29, 29, 29, 0.8)
     ),
-    url(/public/images/fundopizza.jpg);
+    url(../../images/fundopizza.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
